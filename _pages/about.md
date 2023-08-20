@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Fellow at the <a href='https://www.cs.utexas.edu/~larg/index.php/Learning_Agents_Research_Group'>Learning Agents Research Group</a>, The University of Texas at Austin.
+subtitle: Postdoctoral Research Fellow at the <a href='https://www.cs.utexas.edu/~larg/index.php/Learning_Agents_Research_Group'>Learning Agents Research Group</a>\
+The University of Texas at Austin.
 
 profile:
   align: right
