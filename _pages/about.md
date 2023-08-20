@@ -11,6 +11,7 @@ profile:
   address: >
     <p>Gates-Dell Complex Room 3.418</p>
     <p>2317 Speedway</p>
+    <p>The University of Texas at Austin</p>
     <p>Austin, Texas 78712</p>
 
 news: true  # includes a list of news items
