@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Fellow at the <a href='https://www.cs.utexas.edu/~larg/index.php/Learning_Agents_Research_Group'>Learning Agents Research Group</a>\
-The University of Texas at Austin.
+subtitle: Postdoctoral Research Fellow at the <a href='https://www.cs.utexas.edu/~larg/index.php/Learning_Agents_Research_Group'>Learning Agents Research Group</a>
 
 profile:
   align: right
@@ -12,6 +11,7 @@ profile:
   address: >
     <p>Gates-Dell Complex Room 3.418</p>
     <p>2317 Speedway</p>
+    <p>The University of Texas at Austin</p>
     <p>Austin, Texas 78712</p>
 
 news: true  # includes a list of news items
