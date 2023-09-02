@@ -9,7 +9,7 @@ nav_order: 3
 
 ### The University of Edinburgh
 
-Designed lecture slides and courseworks, co-delivered lectures, held tutorials and office hours, and marked coursework assignments for the following course:
+Designed lecture slides and courseworks, co-delivered lectures, held tutorials and office hours, and marked coursework assignments for the following courses:
 - [Reinforcement Learning (INFR11010) - 2018/2019](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11010.htm) instructed by Dr Stefano Albrecht.
 - [Reinforcement Learning (INFR11010) - 2019/2020](http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11010.htm) instructed by Dr Stefano Albrecht.
 
