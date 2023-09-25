@@ -17,3 +17,5 @@ Co-advised the following students for their MSc final project:
 - Niklas Höpner. [Deep Reinforcement Learning with Relational Forward Models: Can Simpler Methods Perform Better?](https://agents.inf.ed.ac.uk/blog/master-dissertations/nhopner_msc2020.pdf). 2020.
 - Paul Chelarescu. [Mitigating Exploitation Caused by Incentivization in Multi-Agent Reinforcement Learning](https://agents.inf.ed.ac.uk/blog/master-dissertations/pchelarescu_msc2021.pdf). 2021.
 - Tawqir Sohail. [SMAC-lite: A lightweight SMAC-based environment for Multi-agent Reinforcement Learning Research](https://agents.inf.ed.ac.uk/blog/master-dissertations/tsohail_msc2022.pdf). 2022.
+
+Following my active role in teaching and supervising, I have been recognised as an Associate Fellow of the Higher Education Academy by [AdvanceHE](https://www.advance-he.ac.uk/fellowship).
